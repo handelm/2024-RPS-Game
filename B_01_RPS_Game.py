@@ -15,7 +15,7 @@ def instructions():
     -paper covers rock. 
     -See who wins each round!
     
-    - if you want to stop playing type 'xxx'
+
     ''')
 
 
